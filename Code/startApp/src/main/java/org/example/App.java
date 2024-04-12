@@ -31,6 +31,10 @@ import java.util.List;
  */
 
 public class App {
+    /**
+     * Точка входа в приложение.
+     * @param args аргументы командной строки
+     */
     public static void main(String[] args) {
         // Контрольный пример для МР-231
         String mr231_TTM = "$RATTM,66,28.71,341.1,T,57.6,024.5,T,0.4,4.1,N,b,L,,457362,А*42";
